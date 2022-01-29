@@ -1,0 +1,5 @@
+package com.gqt.crs.dao;
+
+public class ProfessorDaoImpl {
+
+}
