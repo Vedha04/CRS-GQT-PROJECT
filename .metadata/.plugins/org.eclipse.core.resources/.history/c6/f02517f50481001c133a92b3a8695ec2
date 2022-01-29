@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.gqt.crs.entity;
+
+/**
+ * @author vedha
+ *
+ * 
+ */
+public class Course {
+	
+	private int course_id;
+	private String course_name;
+	private int course_duration;
+	private String course_fees;
+}
