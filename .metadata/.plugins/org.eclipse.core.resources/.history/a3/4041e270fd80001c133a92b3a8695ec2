@@ -1,0 +1,10 @@
+package com.gqt.crs.entity;
+
+public class Professor {
+
+/**
+ * @author vedha
+ *
+ * 
+ */
+}
